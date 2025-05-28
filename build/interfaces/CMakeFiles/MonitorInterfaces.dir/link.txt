@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMonitorInterfaces.a CMakeFiles/MonitorInterfaces.dir/MonitorInterfaces_autogen/mocs_compilation.cpp.o
+/usr/bin/ranlib libMonitorInterfaces.a

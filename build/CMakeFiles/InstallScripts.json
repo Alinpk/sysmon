@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/huangzhujiang/sysmon/build/cmake_install.cmake",
+		"/home/huangzhujiang/sysmon/build/src/cmake_install.cmake",
+		"/home/huangzhujiang/sysmon/build/interfaces/cmake_install.cmake",
+		"/home/huangzhujiang/sysmon/build/plugins/cmake_install.cmake",
+		"/home/huangzhujiang/sysmon/build/plugins/cpu/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

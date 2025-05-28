@@ -1,0 +1,83 @@
+{
+	"BUILD_DIR" : "/home/huangzhujiang/sysmon/build/src/SystemMonitorQt_autogen",
+	"CMAKE_BINARY_DIR" : "/home/huangzhujiang/sysmon/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/huangzhujiang/sysmon/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/huangzhujiang/sysmon/src",
+	"CMAKE_EXECUTABLE" : "/snap/cmake/1463/bin/cmake",
+	"CMAKE_LIST_FILES" : [ "/home/huangzhujiang/sysmon/src/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "/home/huangzhujiang/sysmon",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/huangzhujiang/sysmon/build/src/SystemMonitorQt_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "SystemMonitorQt_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/huangzhujiang/sysmon/src/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/huangzhujiang/sysmon/build/src/SystemMonitorQt_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/huangzhujiang/sysmon/build/src/SystemMonitorQt_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/huangzhujiang/sysmon/src",
+		"/home/huangzhujiang/sysmon/interfaces/include",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/c++/13",
+		"/usr/include/x86_64-linux-gnu/c++/13",
+		"/usr/include/c++/13/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/13/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++17",
+		"-w",
+		"-dM",
+		"-E",
+		"/snap/cmake/1463/share/cmake-4.0/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/huangzhujiang/sysmon/build/src/SystemMonitorQt_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/home/huangzhujiang/sysmon/build/src/CMakeFiles/SystemMonitorQt_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/huangzhujiang/sysmon/build/src/CMakeFiles/SystemMonitorQt_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/huangzhujiang/sysmon/src/main.cpp", "MU", null ],
+		[ "/home/huangzhujiang/sysmon/src/mainwindow.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

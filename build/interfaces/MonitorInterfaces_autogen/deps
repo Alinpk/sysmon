@@ -1,0 +1,4 @@
+MonitorInterfaces_autogen/timestamp: \
+	/home/huangzhujiang/sysmon/interfaces/CMakeLists.txt \
+	/home/huangzhujiang/sysmon/interfaces/include/monitorplugininterface.h \
+	/snap/cmake/1463/bin/cmake
